@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SANKEERTHAN S</h1>
+<h1 align="center">Hi💐, I'm SANKEERTHAN S</h1>
 <h3 align="center">Aspiring Software Developer with proficiency in web development and programming, showcasing dedication to agile methodologies. Demonstrated ability to conceptualize and deliver scalable solutions. Eager to contribute cutting-edge tech skills to drive innovation.</h3>
 
 - 📫 How to reach me **sankeerthans.21csd@kongu.edu**
